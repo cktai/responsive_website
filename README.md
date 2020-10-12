@@ -1,4 +1,4 @@
-# Responsive Card design with HTML & CSS
+# Responsive Website with Bootstrap CSS
 
 A landing page website based on bootstrap 4.
 
