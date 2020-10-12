@@ -2,4 +2,5 @@
 
 A landing page website based on bootstrap 4.
 
+![](cap.png)
 
